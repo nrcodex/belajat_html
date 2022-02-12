@@ -1,2 +1,2 @@
-# belajat_html
+# belajar_html
 article HTML
